@@ -1,0 +1,21 @@
+img {
+  height: 16rem;
+  width: 16rem;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+
+.containerImgLink {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+  padding: 5rem;
+}
+
+.containerMain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

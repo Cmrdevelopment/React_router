@@ -1,0 +1,17 @@
+header {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav {
+  display: flex;
+  list-style: none;
+  gap: 2rem;
+}
+
+a.active button {
+  background-color: rgb(176, 129, 209);
+  color: white;
+}
